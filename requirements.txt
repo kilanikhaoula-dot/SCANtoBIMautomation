@@ -12,7 +12,7 @@ shapely
 ifcopenshell
 pye57
 pyyaml
-libgl1-mesa-glx
+libgl1
 libsm6
 libxrender1
 libxext6
