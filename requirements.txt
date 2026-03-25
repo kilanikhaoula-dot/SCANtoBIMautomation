@@ -9,8 +9,3 @@ e57
 ifcopenshell
 scipy
 pyyaml
-libgl1
-libsm6
-libxrender1
-libxext6
-libgomp1
